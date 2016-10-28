@@ -1,20 +1,32 @@
 ---
 layout: page
-title: About Pixyll
+title: About Felipe
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I write code, read science fiction and history, and play guitar 
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
 
-Thanks to the following:
+## Code writter
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+I am a software engineer with 5 years of experience developing software. I like _functional programming_, _data science_, _distributed systems_ and _category theory_. I write code using:
+
+<div class="programming-languages">
+    <div class="programming-language">
+        <div class="icon-java big-icon"></div>
+        <div class="programming-name">Java</div>
+    </div>
+    <div class="programming-language">
+        <div class="icon-scala-alt big-icon"></div>
+        <div class= "programming-name">Scala</div>
+    </div>
+    <div class="programming-language">
+        <div class="icon-haskell big-icon"></div>
+        <div class="programming-name">Haskell</div>        
+    </div>
+    <div class="programming-language">
+        <div class="icon-javascript big-icon"></div>
+        <div class="programming-name">Javascript</div>        
+    </div>
+</div>
